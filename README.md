@@ -14,7 +14,7 @@
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [该用户很懒の主页](http://www.wuhobin.top)
+- [该用户很懒の主页](http://www.gyhhl.github.io)
 
 
 ### 功能
